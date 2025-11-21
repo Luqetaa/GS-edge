@@ -91,7 +91,7 @@ ESP32 → MQTT → Node-RED → Dashboard + Alertas
 
 ## 🧑 Integrantes do Grupo
 
-Lucas Cavalcante RM 562857
+Lucas Cavalcante RM 562857\
 Matheus Rodrigues RM 561689
 
 ## 🧾 Licença
