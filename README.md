@@ -2,6 +2,14 @@
 
 ### *IoT com ESP32 + Wokwi + Node-RED \| O Futuro do Trabalho*
 
+## 📌 Links do Projeto
+ 
+[Wokwi Esp32](https://wokwi.com/projects/448180306238960641)
+
+[Video demonstrativo](https://youtu.be/4oNy9JVpjSk)
+
+[Apresentação do Projeto](https://www.canva.com/design/DAG5WJuddI8/eZ7zE_t-6Cf4ts_wB-spBw/edit?utm_content=DAG5WJuddI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 🧠 Sobre o Projeto
 
 Com a popularização do home office, fatores ambientais como temperatura,
@@ -79,6 +87,12 @@ ESP32 → MQTT → Node-RED → Dashboard + Alertas
      ├ Images/
      ├ Fluxo Node-red - Home.json/
      └ README.md
+
+
+## 🧑 Integrantes do Grupo
+
+Lucas Cavalcante RM 562857
+Matheus Rodrigues RM 561689
 
 ## 🧾 Licença
 
