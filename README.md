@@ -8,8 +8,6 @@
 
 [Video demonstrativo](https://youtu.be/4oNy9JVpjSk)
 
-[Apresentação do Projeto](https://www.canva.com/design/DAG5WJuddI8/eZ7zE_t-6Cf4ts_wB-spBw/edit?utm_content=DAG5WJuddI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ## 🧠 Sobre o Projeto
 
 Com a popularização do home office, fatores ambientais como temperatura,
